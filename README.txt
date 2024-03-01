@@ -1,0 +1,20 @@
+I aim to investigate the central theme of “exploring language and expression through means of computing”.
+
+In today’s globalized world, the specificity and complexity of language seem to be weakening: 
+from the disappearance of dialects, through the replacement of native languages, to the abbreviation of languages. 
+The same is valid from the perspective of computer science: a transformation from the fundamental C language to 
+the increasingly convenient, user-friendly, and lower-threshold Python.
+
+We are constantly refining our expressions, but is this accompanied by questioning, confusion, and uncertainty 
+about our self-worth? This fear of language and words is, in a sense, similar to people’s fear of technology. If 
+an emoji or an acronym can represent emotions, where do one’s value and the value of one’s thinking come from? If
+a line of code or a machine simplifies (or even completes) one’s work, where does the value of our thinking come 
+from?
+
+But suppose one were to think more carefully about the relationship between humans, machines, and language. 
+In that case, a “nesting doll” phenomenon would occur: humans are the creators of computers as well as their 
+language. On the one hand, as machines, computers do not directly understand the programming language typed by 
+humans, but to interact with us, the computer’s language is forced to abstract. On the other hand, as human beings,
+we wish to express ideas that are abstracted by designated social standards and the so-called social etiquette.
+Language is abstract but particularly important: it constructs the logical basis of our expressions, turns our 
+thoughts into exchangeable ideas, and represents our unique personality and “identity” as influenced by society.
